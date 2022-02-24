@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sales desktop folder setup.md",
-            "mode": "source",
+            "file": "Sales manager.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sales desktop folder setup.md",
+                "file": "Sales manager.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,11 +97,12 @@
   },
   "active": "9604b805f877cdcb",
   "lastOpenFiles": [
-    "Sales desktop folder setup.md",
     "Sales manager.md",
+    "Open activity section.md",
+    "Sales desktop folder setup.md",
+    "Next page.md",
     "README.md",
     "CleanShot 2022-02-21 at 13.59.11@2x.png",
-    "templates/datetime.md",
-    "Next page.md"
+    "templates/datetime.md"
   ]
 }
