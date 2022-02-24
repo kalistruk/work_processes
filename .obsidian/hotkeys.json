@@ -1,1 +1,12 @@
-{}
+{
+  "insert-current-date": [],
+  "insert-current-time": [],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ]
+}

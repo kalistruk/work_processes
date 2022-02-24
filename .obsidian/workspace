@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ea944e7f11cd29f1",
+        "id": "9604b805f877cdcb",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Sales desktop folder setup.md",
             "mode": "source",
             "source": true
           }
@@ -48,6 +48,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "f1a5aa3f1f32db75",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
@@ -69,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Sales desktop folder setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,9 +95,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ea944e7f11cd29f1",
+  "active": "9604b805f877cdcb",
   "lastOpenFiles": [
+    "Sales desktop folder setup.md",
+    "Sales manager.md",
     "README.md",
+    "CleanShot 2022-02-21 at 13.59.11@2x.png",
+    "templates/datetime.md",
     "Next page.md"
   ]
 }
