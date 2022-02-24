@@ -1,2 +1,2 @@
 # Work processes index
-[[Next page]]
+[Next page](Next%20page.md)
