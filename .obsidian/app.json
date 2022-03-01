@@ -3,5 +3,6 @@
   "livePreview": false,
   "useMarkdownLinks": true,
   "attachmentFolderPath": "./",
-  "fileSortOrder": "byModifiedTime"
+  "fileSortOrder": "byModifiedTime",
+  "alwaysUpdateLinks": true
 }

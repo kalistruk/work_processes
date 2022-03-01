@@ -1,0 +1,1 @@
+Make sure, that "Maximum amount" is more or equal than requested amount
