@@ -3,6 +3,7 @@ We must verify salary with My Bank Statement service. We must have statement rec
 
 
 [I have no verified salary](i_have_no_verified_salary.md)
+
 [I have verified salary](i_have_verified_salary.md)
 
 #### Go to [sales manager process](sales_manager.md)
